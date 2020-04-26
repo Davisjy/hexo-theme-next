@@ -17,9 +17,20 @@ menu:
   sitemap: 站点地图
   commonweal: 公益404
 
+menu_icons:
+  enable: true
+  # Icon Mapping.
+  home: home
+  about: user
+  categories: th
+  tags: tags
+  archives: archive
+  commonweal: heartbeat
+
 sidebar:
   overview: 站点概览
   toc: 文章目录
+  display: post
 
 post:
   created: 创建于
